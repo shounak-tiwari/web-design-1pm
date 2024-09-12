@@ -1,0 +1,28 @@
+css : 
+
+inline css : this css is work as attributes and values in a html hag 
+
+<h1 style="">Universal Informatics</h1>
+
+pro : 
+
+sort hand prop 
+
+style ="prop:values;prop:values;"
+
+style="background-color: darkcyan;"
+
+style = attributes
+
+background-color = pro
+
+darkcyan = values 
+
+
+
+
+
+
+internal css 
+
+where we use inside the style tag 

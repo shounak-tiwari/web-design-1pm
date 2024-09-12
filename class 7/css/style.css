@@ -1,0 +1,22 @@
+:root{
+    --primary:white;
+    --sec:#345
+}
+body{
+    border: 2px solid white;
+    height: 100rem;
+    margin: 10px;
+    padding: 10px;
+    background-color: var(--sec);
+}
+h1{
+    border:2px solid red;
+    padding: 10px;
+    color: var(--primary);
+}
+
+
+h1:hover{
+    color: orange;
+    cursor: pointer;
+}

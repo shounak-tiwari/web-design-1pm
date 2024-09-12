@@ -1,0 +1,7 @@
+
+h1{
+    border: 10px solid transparent;
+    border-image: url(https://www.veeforu.com/wp-content/uploads/2022/12/Box-design-square-border-png.png);
+    border-image-slice: 300;
+    border-image-repeat: space;
+}

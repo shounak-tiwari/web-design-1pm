@@ -1,0 +1,26 @@
+css : 
+1. universal selectors 
+2. element selectors
+3. class 
+4. id 
+5. pseudo elements  :hover 
+                    :link
+                    :focus
+                    :visited 
+                    :active
+                    :root
+
+6. pseudo class     ::after 
+                    ::before
+                    ::first-word
+                    ::last-word
+                
+7. adjacent selectors + 
+
+8. siblings selectors ~ 
+
+9. nested selectors 
+
+10. child selectors 
+
+11. attribute selectors 

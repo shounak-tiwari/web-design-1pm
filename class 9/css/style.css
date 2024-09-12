@@ -1,0 +1,18 @@
+body{
+    background-color: darkcyan;
+}
+
+abbr[title="Universal Informatics Indore"] {
+    color: red;
+}
+
+
+.main{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+button:hover +p{
+    display: none;
+}

@@ -1,0 +1,78 @@
+
+development : 
+system soft : 
+    operating system : java , python , cpp, c  
+    drivers dev 
+
+application soft : 
+        gui (graphical user interface soft. )
+
+        python 
+        device soft (app dev... face, uni,true, )
+            1. android  -> java tech
+            2. ios(i-phone operating system) -> swift
+
+
+web development 
+            1. html : hypertext markup language   
+            2. css
+            3. js 
+
+programming language v/s markup language
+
+markup language :  text -> structure  
+
+1. xml
+2. html (jsx)
+
+web development :
+
+    frontend        backend         database-connectivity 
+    html                js              mongodb   
+    css                 rect 
+    js                  node 
+                        express 
+
+
+
+
+python : 
+web development 
+robotics 
+data science 
+data analysis 
+iot
+al 
+ml 
+ect....... 
+
+
+
+
+web development : html : 1989
+
+tim burner lee 
+
+Sir Tim Berners-Lee, a British computer scientist, invented HTML in 1991. Here is a timeline of HTML's development: 
+ 
+1989: Berners-Lee invents HTML as a publishing language for the Web 
+ 
+1991: Berners-Lee creates the first version of HTML, which is based on SGML (Standard Generalized Markup Language) 
+ 
+1993: HTML 1.0 is released 
+ 
+1995: HTML 2.0 is published, which includes new features in addition to those in HTML 1.0 
+ 
+1997: HTML 3.0 is invented 
+ 
+1999: HTML 4.0 is released 
+ 
+2014: HTML 5.0 is released and used worldwide 
+ 
+
+
+
+what about html extension 
+
+.html 
+.htm 
