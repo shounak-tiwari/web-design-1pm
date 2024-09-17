@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+:root{
+	--primary-color : white;
+}
+*{
+	color: var(--primary-color);
+}
+body{
+/*	background-image: url(https://i.pinimg.com/564x/bb/93/3f/bb933f73884e1ab2d97739410775ee38.jpg);*/
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkred;
+    width: 100%;
+    position: fixed;
+	display: flex;
+	border-bottom: 2px solid red;
+}
+.navbar-nav {
+	display: flex;
+}
+.nav-item{
+	list-style: none;
+	margin: 5px;
+	padding: 10px;
+}
+
+.nav-item:hover{
+	cursor: pointer;
+	color: orangered;
+}
+
+
+.products{
+    display: flex;
+    overflow: scroll;
+    width: 100%;
+}
+
+
+section{
+    position: relative;
+    z-index: -1;
+    top: 200px;
+}
+
+
+.details-product h1{
+    position: sticky;
+    background-color: yellow;
+    color: black;
+    top: 130px;
+
+}
+
+.details-product .sticky-demo{
+    position: sticky;
+    top: 160px;
+}
