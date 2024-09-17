@@ -1,0 +1,6 @@
+positions in css : 
+1. static 
+2. relative : relative position is follow normal float html but it is effected from top,left,right,and bottom 
+3. absolute 
+4. fixed 
+5. sticky 

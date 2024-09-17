@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+:root{
+	--primary-color : white;
+}
+*{
+	color: var(--primary-color);
+}
+body{
+/*	background-image: url(https://i.pinimg.com/564x/bb/93/3f/bb933f73884e1ab2d97739410775ee38.jpg);*/
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+nav{
+	display: flex;
+	border-bottom: 2px solid red;
+}
+.navbar-nav {
+	display: flex;
+}
+.nav-item{
+	list-style: none;
+	margin: 5px;
+	padding: 10px;
+}
+
+.nav-item:hover{
+	cursor: pointer;
+	color: orangered;
+}
