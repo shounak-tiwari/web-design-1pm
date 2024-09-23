@@ -1,0 +1,46 @@
+/* font link of google font */
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkcyan;
+}
+
+header{
+    background-color: steelblue;
+    color: white;
+}
+.nav-bar{
+    position: relative;
+    display: flex;
+}
+
+.brand-name{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 35px;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: bolder;
+text-shadow: 2px 2px 2px yellow;
+}
+
+.nav{
+
+    position: absolute;
+    right: 30%;
+    top: 20px;
+    background-color: red;
+    padding: 10px;
+    list-style-type: none;
+    margin: 10px;
+}
+
+.nav-items{
+    margin: 5px;
+}
+
+
